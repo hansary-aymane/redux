@@ -1,0 +1,41 @@
+------------------ Redux ------------------
+
+> Redux : state management library
+	> Centralizes application's state
+	> Makes data flow transparent and predictable
+
+> In functional programming : 
+	> Higher order functions (is a function takes a function as an argument || returns it || both)
+
+// STORE => GLOBALIZED STATE
+
+// ACTION INCREMENT => Function that returns an object
+
+// REDUCER => Gonna take care of all the actions
+
+// DISPATCH => The fundamental method of updating a Redux store's state
+
+> combineReducers : we use it if we have more than one reducer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
